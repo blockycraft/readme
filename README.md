@@ -16,4 +16,4 @@ There is no formal feature list or any intentions to carry the project long-term
 
 The Blockycraft project was first developed for a University of Waterloo graphics course, and this codebase is available as [blockycraft-classic](./classic/). The first codebase went through some revisions in an attempt to address the technical debt incurred in the original development cycle for the demo. While these did make some improvements, they still left the codebase in a less than ideal state.
 
-With the introduced of GitHub Actions, and a recent spark of interest in using Unity, I looked to rebuild parts of the project in Unity. The project isn't intended to be feature complete with the original blockycraft, but instead be a enjoyable project for [tinkering with unity](./unity/).
+With the introduced of GitHub Actions, and a recent spark of interest in using Unity, I looked to rebuild parts of the project in Unity. The project isn't intended to be feature complete with the original blockycraft, but instead be a enjoyable project for tinkering with unity.
