@@ -1,7 +1,7 @@
 slug: readme
 description: README of the Blockycraft organization
 project: blockycraft
-namespace: ''
+namespace:
 status: archived
 icon: icon.svg
 license:
@@ -13,4 +13,3 @@ topics: |-
     "readme",
     "brand"
   ]
-
